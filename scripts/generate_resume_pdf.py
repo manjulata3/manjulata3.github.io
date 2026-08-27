@@ -34,18 +34,18 @@ SKILLS = [
 JOBS = [
     {
         "title": "QA Lead / Business Analyst / Test Coordinator",
-        "dates": "Mar 2024 – Present",
+        "dates": "Mar 2024 – Jul 2025",
         "org": "National Science Foundation (PES) — Ashburn, VA",
         "bullets": [
-            "Lead end-to-end testing and business requirement alignment across NSF applications and third-party vendor systems, serving as the single point of accountability for release quality.",
-            "Coordinate daily with vendor application teams, cross-functional groups, and client stakeholders on integration, API, performance, service recovery, and security validation.",
-            "Identify impacted systems for each release and convene the owning teams so integration testing covers every interface collectively rather than in isolated silos.",
-            "Drive performance testing readiness — aligning stakeholders, engaging monitoring teams, and confirming environments and prod-like data are in place before load and stress runs.",
-            "Design and execute manual and automated suites using Selenium, Ready API, Rational Performance Test, and Jenkins, improving coverage and cycle efficiency across releases.",
-            "Own defect triage and troubleshooting, coordinating resolution across application, infrastructure, and testing teams.",
-            "Produce key release artifacts: UAT packages, ITHC briefs, DIS testing summaries, and Release Readiness decks.",
-            "Facilitate UAT/ITHC sessions, manage client validation, and ensure compliance with federal release standards.",
-            "Support release-night validation and post-deployment production checks.",
+            "Led end-to-end testing and business requirement alignment across NSF applications and third-party vendor systems, serving as the single point of accountability for release quality.",
+            "Coordinated daily with vendor application teams, cross-functional groups, and client stakeholders on integration, API, performance, service recovery, and security validation.",
+            "Identified impacted systems for each release and convened the owning teams so integration testing covered every interface collectively rather than in isolated silos.",
+            "Drove performance testing readiness — aligning stakeholders, engaging monitoring teams, and confirming environments and prod-like data were in place before load and stress runs.",
+            "Designed and executed manual and automated suites using Selenium, Ready API, Rational Performance Test, and Jenkins, improving coverage and cycle efficiency across releases.",
+            "Owned defect triage and troubleshooting, coordinating resolution across application, infrastructure, and testing teams.",
+            "Produced key release artifacts: UAT packages, ITHC briefs, DIS testing summaries, and Release Readiness decks.",
+            "Facilitated UAT/ITHC sessions, managed client validation, and ensured compliance with federal release standards.",
+            "Supported release-night validation and post-deployment production checks.",
         ],
     },
     {
@@ -280,7 +280,7 @@ def build_pdf(path: str):
         section_rule(),
         Paragraph(
             "QA and test engineering professional with 12+ years delivering functional, API, performance, security, "
-            "and Section 508 accessibility testing for federal and enterprise programs. Currently serving in a dual "
+            "and Section 508 accessibility testing for federal and enterprise programs. Most recently served in a dual "
             "QA Lead / Business Analyst capacity at the National Science Foundation, coordinating integration and "
             "release validation across internal teams and third-party vendors. Builds and maintains automation suites "
             "in Selenium, Cucumber, and Ready API wired into Jenkins, and translates business requirements into "
